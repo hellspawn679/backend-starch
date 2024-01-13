@@ -9,4 +9,5 @@ simplejson==3.19.2
 spacy==3.7.2
 streamlit==1.29.0
 streamlit_chatbox==1.1.11
-uvicorn
+uvicorn==0.25.0
+google-generativeai
